@@ -1,0 +1,21 @@
+.Text{
+    color: rgb(255, 255, 255);
+      
+    }
+.linkText{
+     display:inline-block;
+     padding-right:.5em;
+    }
+
+.link{
+    color:blanchedalmond;
+}
+
+.rcorners {
+    border-radius: 25px;
+    background: rgb(20, 20, 20, .4);
+    width: 62%;
+    padding: 20px;
+    color:white;
+    margin: 5vh auto auto auto;
+  }
